@@ -1,5 +1,5 @@
 # Basic_Banking_System Sparks Foundation
-A website created for basic banking operations using HTML5,CSS3,PHP and MYSQL database.
+A website created for basic banking operations using HTML,CSS,Bootstrap,Javascript,PHP and MYSQL database.
 
 Sparks Foundation Internship Project : Basic Banking System
 A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.
